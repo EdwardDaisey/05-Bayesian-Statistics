@@ -1,4 +1,3 @@
-
 treeRegression = function(n) {
 	
 	library(invgamma);
