@@ -1,5 +1,3 @@
-
-
 #####    Metropolis-Hasting Algorithm in R
 
 metHastings = function(n, sigma) {
