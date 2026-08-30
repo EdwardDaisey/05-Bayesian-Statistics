@@ -1,4 +1,3 @@
-
 missingData = function(nmbMcIterations)
 
 {
