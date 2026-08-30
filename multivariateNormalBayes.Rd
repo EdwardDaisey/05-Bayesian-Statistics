@@ -1,4 +1,3 @@
-
 multivariateNormalBayes = function(nmbMcIterations)
 
 {
