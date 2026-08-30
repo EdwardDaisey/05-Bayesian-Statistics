@@ -1,6 +1,3 @@
-
-
-
 accReject = function(n) {
 	
 	
