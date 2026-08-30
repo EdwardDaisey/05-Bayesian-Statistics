@@ -1,5 +1,4 @@
-  
-gibbs.smpl.tnorm = function(n, theta1_0, theta2_0, theta3_0, k, x_1, x_2, x_3, phi) {
+  gibbs.smpl.tnorm = function(n, theta1_0, theta2_0, theta3_0, k, x_1, x_2, x_3, phi) {
      smpl = matrix(0, 10000, 3)
      smpl[1,] = t(c(theta1_0, theta2_0, theta3_0))
      for (j in 2:n) { 
